@@ -1,0 +1,13 @@
+scrapy
+selenium
+playwright
+scrapy-selenium
+scrapy-playwright
+beautifulsoup4
+requests
+lxml
+fake-useragent
+python-decouple
+anticaptchaofficial
+undetected-chromedriver
+selenium-stealth
